@@ -70,14 +70,14 @@
 
         shortcuts {
             bindings = <
-&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans                 &trans                 &trans                 &trans                 &trans  &trans
-&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans                 &trans                 &trans                 &trans                 &trans  &trans
-&trans  &trans  &kp LS(LA(LC(LG(S))))  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LS(LA(LC(LG(H))))  &kp LS(LA(LC(LG(J))))  &kp LS(LA(LC(LG(K))))  &kp LS(LG(LA(LC(L))))  &trans  &trans
-&trans  &trans  &trans                 &trans  &trans  &trans                  &trans      &trans                  &trans                 &trans                 &kp LC(LA(LS(COMMA)))  &trans                 &trans  &trans
-&trans  &trans  &trans                 &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                         &trans                 &trans                 &trans                 &trans  &trans
+&trans  &trans  &trans             &trans  &trans  &trans  &trans                                      &trans  &trans             &trans             &trans                 &trans             &trans  &trans
+&trans  &trans  &trans             &trans  &trans  &trans  &trans                                      &trans  &trans             &trans             &trans                 &trans             &trans  &trans
+&trans  &trans  &kp LS(LA(LC(S)))  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LS(LA(LC(H)))  &kp LS(LA(LC(J)))  &kp LS(LA(LC(K)))      &kp LS(LA(LC(L)))  &trans  &trans
+&trans  &trans  &trans             &trans  &trans  &trans                  &trans      &trans                  &trans             &trans             &kp LC(LA(LS(COMMA)))  &trans             &trans  &trans
+&trans  &trans  &trans             &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans                     &trans             &trans                 &trans             &trans  &trans
             >;
 
-            label = "Short";
+            label = "shrt";
         };
 
         extra1 {
