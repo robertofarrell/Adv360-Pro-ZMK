@@ -70,11 +70,11 @@
 
         shortcuts {
             bindings = <
-&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &kp LS(LA(LC(LG(S))))  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans                 &trans  &trans  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans                 &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans                     &trans  &trans  &trans
+&trans  &trans  &trans                 &trans  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans                     &trans  &trans  &trans
+&trans  &trans  &kp LS(LA(LC(LG(S))))  &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans                     &trans  &trans  &trans
+&trans  &trans  &trans                 &trans  &trans  &trans                  &trans      &trans                  &trans  &trans  &kp LS(LA(LC(LG(COMMA))))  &trans  &trans  &trans
+&trans  &trans  &trans                 &trans  &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans                     &trans  &trans  &trans
             >;
         };
 
